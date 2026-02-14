@@ -1,8 +1,8 @@
 {
-    "latestVersion": "0.0.14",
+    "latestVersion": "0.0.15",
     "minVersion": "0.0.1",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.sirrakadem.app",
     "iosUpdateUrl": "https://apps.apple.com/app/id-sirra-kadem",
-    "releaseNotes": "Tüm ses ve müzik hataları giderildi! Analiz hızı artırıldı ve daha kaliteli bir deneyim sunuldu."
+    "releaseNotes": "Daha detaylı analiz için artık 4 fotoğraf (3 fincan, 1 tabak) çekebilirsiniz! Fal yorumları artık çok daha uzun ve kişiselleştirilmiş. Bildirim sistemi güncellendi."
 }
 
