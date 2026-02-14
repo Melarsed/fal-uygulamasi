@@ -1,7 +1,8 @@
 {
-     "latestVersion": "0.0.13",
+     "latestVersion": "0.0.14",
     "minVersion": "0.0.1",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.sirrakadem.app",
-    "releaseNotes": "Kamera çekimi ve galeri seçim özelliği eklendi! Arka planda müzik çalma sorunu giderildi ve analiz hızı artırıldı."
+    "iosUpdateUrl": "https://apps.apple.com/app/id-sirra-kadem",
+    "releaseNotes": "Tüm ses ve müzik hataları giderildi! Analiz hızı artırıldı ve daha kaliteli bir deneyim sunuldu."
 }
 
