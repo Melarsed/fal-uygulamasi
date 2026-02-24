@@ -1,8 +1,7 @@
 {
-    "latestVersion": "1.0.0+35",
+    "latestVersion": "1.0.0+37",
     "minVersion": "1.0.0",
     "updateUrl": "https://play.google.com/store/apps/details?id=com.sirrakadem.app",
     "iosUpdateUrl": "https://apps.apple.com/app/id-sirra-kadem",
-    "releaseNotes": "Daha detaylı analiz için artık 4 fotoğraf (3 fincan, 1 tabak) çekebilirsiniz! Fal yorumları artık çok daha uzun ve kişiselleştirilmiş. Bildirim sistemi güncellendi."
+    "releaseNotes": "Optimizasyon çalışmaları ile uygulama boyutu düşürüldü. Tarot ve AI sistemlerindeki kararlılık iyileştirilmeleri yapıldı."
 }
-
